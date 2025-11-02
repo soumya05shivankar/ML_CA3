@@ -74,9 +74,9 @@ Future Improvements:
 
 References:
 
-1️. Hutto, C. J., & Gilbert, E. (2014). VADER Sentiment Analysis
-2️. Scikit-Learn Documentation – https://scikit-learn.org
-3️. NLTK Documentation – https://www.nltk.org
-4️. Media & News Sentiment Research papers (general references)
+1. Hutto, C. J., & Gilbert, E. (2014). VADER Sentiment Analysis
+2. Scikit-Learn Documentation – https://scikit-learn.org
+3. NLTK Documentation – https://www.nltk.org
+4. Media & News Sentiment Research papers (general references)
 
 
